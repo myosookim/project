@@ -11,4 +11,8 @@
 ``` $ sudo raspi-config ```
 - Advanced Options -> Expand Filesystem
 
+## 라즈베리 파이와 DHT 11 센서 연동
+'''
+$ 
+
 <img width="" height="700" src="./png/투명.png"></img>
