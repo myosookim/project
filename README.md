@@ -10,3 +10,5 @@
 ## 라즈베리 파이 설정
 ``` $ sudo raspi-config ```
 - Advanced Options -> Expand Filesystem
+
+<img width="" height="700" src="./png/투명.png"></img>
